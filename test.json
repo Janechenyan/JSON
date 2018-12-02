@@ -1,5 +1,4 @@
-;handleResponse({
-  [
+;handleResponse([
     {
         "title": "profession Javascript",
         "author": [
@@ -14,5 +13,4 @@
         ],
         "year": 30
     }
-]
-});
+]);
