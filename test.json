@@ -1,16 +1,11 @@
 [
-    {
-        "title": "profession Javascript",
-        "author": [
-            "Jack"
-        ],
-        "year": 21
-    },
-    {
-        "title": "Html",
-        "author": [
-            "Mike"
-        ],
-        "year": 30
-    }
+    {"username":"张三1991","idcard":"2019101991"},
+    {"username":"张三1992","idcard":"2019101992"},
+    {"username":"张三1993","idcard":"2019101993"},
+    {"username":"张三1994","idcard":"2019101994"},
+    {"username":"张三1995","idcard":"2019101995"},
+    {"username":"张三1996","idcard":"2019101996"},
+    {"username":"张三1997","idcard":"2019101997"},
+    {"username":"张三1998","idcard":"2019101998"},
+    {"username":"张三1999","idcard":"2019101999"}
 ];
